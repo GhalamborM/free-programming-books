@@ -29,12 +29,12 @@
 * [Ohjelmoinnin perusteet ja C-kieli](http://cs.stadia.fi/~silas/ohjelmointi/c_opas) - Simo Silander
 
 
-### <a name="csharp"></a>C\#
+### <a id="csharp"></a>C\#
 
 * [Ohjelmointi 1: C#](https://jyx.jyu.fi/bitstream/handle/123456789/47417/978-951-39-4859-7.pdf) - Martti Hyvönen, Vesa Lappalainen, Antti-Jussi Lakanen (PDF)
 
 
-### <a name="cpp"></a>C++
+### <a id="cpp"></a>C++
 
 * [C++](https://fi.wikibooks.org/wiki/C%2B%2B) - Wikikirjasto
 * [C++-ohjelmointi](https://www.ohjelmointiputka.net/oppaat/opas.php?tunnus=cpp_ohj_01)
@@ -60,7 +60,7 @@
 
 ### OpenGL
 
-* [OpenGL](https://fi.wikibooks.org/wiki/OpenGL) - Wikikirjasto (:construction: *keskeneräinen*)
+* [OpenGL](https://fi.wikibooks.org/wiki/OpenGL) - Wikikirjasto *(:construction: keskeneräinen)*
 
 
 ### PHP
